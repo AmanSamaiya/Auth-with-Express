@@ -1,0 +1,8 @@
+To Run the code first 
+npm init command in the terminal will install all the dependendies in the package.json file 
+the .env file needs to be updated with the mongo conn string and a frontend app port number
+live server has been used to fix a port number so it can be used accross the app
+launch both client and server from the terminal so the data can transfer accross
+the data that is send through the frontend is travelled through the mongo database 
+authentication validation is used
+jwt is used for the authentication of the user 
